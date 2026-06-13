@@ -1,4 +1,5 @@
 {
+  "bannerUrl": "https://raw.githubusercontent.com/helloraisul/json/main/111.jpg",
   "channels": [
     {
       "id": "ch1",
@@ -10,15 +11,15 @@
     {
       "id": "ch2",
       "name": "Channel 2 — BTV",
-      "logoAsset": "assets/logos/tsports.png",
-      "streamUrl": "http://10.10.10.2/live/fnf007/index.m3u8",
+      "logoAsset": "assets/logos/btv.png",
+      "streamUrl": "http://10.10.10.2/live/fnf002/index.m3u8",
       "category": "Sports • Live"
     },
     {
       "id": "ch3",
       "name": "Channel 3 — Z Bangla",
-      "logoAsset": "assets/logos/tsports.png",
-      "streamUrl": "http://103.89.248.14:8082/FIFA-World-Cup-Live-1/index.fmp4.m3u8?token=69bc170e293abe45706c7186866235ab8f1ff2e9",
+      "logoAsset": "assets/logos/zbangla.png",
+      "streamUrl": "http://10.10.10.2/live/fnf003/index.m3u8",
       "category": "Sports • Live"
     }
   ]
