@@ -1,21 +1,21 @@
 {
   "channels": [
     {
-      "id": "ftp1",
+      "id": "linkftp1",
       "name": "Channel 1 — T Sports HD",
       "logoAsset": "assets/logos/tsports.png",
       "streamUrl": "http://10.10.10.2/live/fnf001/index.m3u8",
       "category": "Sports • Live"
     },
     {
-      "id": "ftp2",
+      "id": "linkftp2",
       "name": "Channel 2 — BTV",
       "logoAsset": "assets/logos/btv.png",
       "streamUrl": "http://10.10.10.2/live/fnf002/index.m3u8",
       "category": "Sports • Live"
     },
     {
-      "id": "ftp3",
+      "id": "linkftp3",
       "name": "Channel 3 — Z Bangla",
       "logoAsset": "assets/logos/zbangla.png",
       "streamUrl": "http://10.10.10.2/live/fnf003/index.m3u8",
