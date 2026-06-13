@@ -20,6 +20,13 @@
       "logoAsset": "assets/logos/zbangla.png",
       "streamUrl": "http://10.10.10.2/live/fnf003/index.m3u8",
       "category": "Sports • Live"
+    },
+       {
+      "id": "linkftp4",
+      "name": "Channel 2 — BTV",
+      "logoAsset": "assets/logos/btv.png",
+      "streamUrl": "http://10.10.10.2/live/fnf002/index.m3u8",
+      "category": "Sports • Live"
     }
   ]
 }
