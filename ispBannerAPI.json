@@ -1,7 +1,13 @@
 {
   "bannerUrl": "https://raw.githubusercontent.com/helloraisul/json/main/111.jpg",
   "ftpIsps": [
-    "Link Tech IT",
-    "Achiever Broadband Internet"
+    {
+      "name": "Link Tech IT",
+      "url": "https://raw.githubusercontent.com/helloraisul/json/main/linkTechItchannels.json"
+    },
+    {
+      "name": "Achiever Broadband Internet",
+      "url": "https://raw.githubusercontent.com/helloraisul/json/main/abiChannels.json"
+    }
   ]
 }
