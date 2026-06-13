@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "isLock": true,
+  "isLock": false,
   "appLink": "https://github.com/helloraisul/BoaliparaTV/releases/latest/download/app-release.apk",
   "bannerUrl": "https://raw.githubusercontent.com/helloraisul/json/main/bannerPic.jpg",
   "noticeText": "🔴 New channels added! Check All Channels for updates.",
