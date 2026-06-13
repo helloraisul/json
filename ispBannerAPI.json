@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "isLock": false,
+  "isLock": true,
   "appLink": "https://play.google.com/store/apps/details?id=com.example.app",
   "bannerUrl": "https://raw.githubusercontent.com/helloraisul/json/main/bannerPic.jpg",
   "noticeText": "🔴 New channels added! Check All Channels for updates.",
