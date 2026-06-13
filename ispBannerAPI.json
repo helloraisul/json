@@ -1,5 +1,6 @@
 {
- "bannerUrl": "https://raw.githubusercontent.com/helloraisul/json/main/bannerPic.jpg",
+  "bannerUrl": "https://raw.githubusercontent.com/helloraisul/json/main/bannerPic.jpg",
+  "noticeText": "🔴 New channels added! Check All Channels for updates.",
   "ftpIsps": [
     {
       "name": "Link Tech IT",
