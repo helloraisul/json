@@ -10,9 +10,9 @@
     },
     {
       "id": "all2",
-      "name": "Channel 2 — BTV",
+      "name": "Channel 2 — PTV",
       "logoAsset": "assets/logos/btv.png",
-      "streamUrl": "http://10.10.10.2/live/fnf002/index.m3u8",
+      "streamUrl": "http://100.100.100.100:3255/ptv_bdix/index.m3u8",
       "category": "Sports • Live"
     },
     {
