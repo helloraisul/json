@@ -21,6 +21,13 @@
       "logoAsset": "assets/logos/zbangla.png",
       "streamUrl": "http://100.100.100.100:3255/somy_rc_bdix/index.m3u8",
       "category": "Sports • Live"
+    },
+    {
+      "id": "all4",
+      "name": "Channel 3 — Sports 1",
+      "logoAsset": "assets/logos/zbangla.png",
+      "streamUrl": "http://100.100.100.100:3255/spotyfyz_bdix/index.m3u8",
+      "category": "Sports • Live"
     }
   ]
 }
