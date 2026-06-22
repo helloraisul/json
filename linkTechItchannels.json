@@ -20,6 +20,13 @@
       "logoAsset": "assets/logos/btv.png",
       "streamUrl": "http://103.89.248.10:8082/1LIVE/index.fmp4.m3u8?token=cde794b0ea63257ba91c6071adbfc6520aa8762c-a1817b8254179add453126740610de56-1782158819-1782148019",
       "category": "Sports • Live"
+    },
+           {
+      "id": "linkftp4",
+      "name": "CH 2 — Sports HD 3",
+      "logoAsset": "assets/logos/btv.png",
+      "streamUrl": "http://103.89.248.50:8082/FIFA-World-Cup-Live/index.fmp4.m3u8?token=9d9c3aa4b41ac5c251133eefd47c18511f897b3f-0b91ebbaf01049ce4de42489808b27d0-1782158506-1782147706",
+      "category": "Sports • Live"
     }
   ]
 }
